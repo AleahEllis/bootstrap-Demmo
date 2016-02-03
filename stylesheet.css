@@ -1,9 +1,21 @@
-
-@media(max-width:1600px){
-  body{
-    background-color:yellow;
+* {
+	border: 1px solid black 
 }
 
-body{
-  background-color:red
+body {
+	background-color: white;
+
+}
+
+.blogtitle{
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	background-color: lightgrey;
+	height: 16em;
+
+}
+
+h1 {
+
 }
